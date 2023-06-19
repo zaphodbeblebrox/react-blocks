@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  background-color: #dddddd;
+  border: 3pt solid black;
+}
+
+.flex-row{
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-column{
+  display: flex;
+  flex-direction: column;
+}
+
+.full-width{
+  width: 100vw;
+}
+
+.sbtw{
+  justify-content: space-between;
+}

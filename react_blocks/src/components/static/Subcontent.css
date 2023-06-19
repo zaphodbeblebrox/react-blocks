@@ -1,0 +1,8 @@
+.subcontent{
+    background-color: gold;
+    width:30%;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+    border: 3pt solid black;
+}
